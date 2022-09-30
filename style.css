@@ -4,14 +4,14 @@ box-sizing: border-box;
 }
 
 body{
-    padding: 24px;
+    padding: 0px;
     padding-bottom:14rem ;
     overflow-x: hidden;
     margin: 0;
     display: grid;
     place-items: center;
     font-family: 'Poppins', sans-serif;
-    background: reg(226,226,226);
+    background: salmon;
 }
 
 .header{
